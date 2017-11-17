@@ -1,0 +1,5 @@
+Cougars,CAR
+QB,Erik Swindlehurst,14,2017,78,67,87,82,63,64,1,16
+QB,Ryan Swindlehurst,12,2017,60,83,87,80,76,67,1,16
+QB,Justin Miles,12,2017,74,89,76,72,76,84,1,16
+RB,Justin Miles,12,201774,89,82,76,85,1,16
